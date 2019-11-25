@@ -4,13 +4,13 @@
 This repository is example code based on the book <Effective.Robotics.Programming.with.ROS.3rd.Edition>,but I will update a lot of new things in this repository.In this Repository you will get more than one book example and code,the update code will show as fellows.
 
 
-## 1. The basic skill learnning guide and code for totally beginer including (Python,C/C++,Ubuntu)
+1. The basic skill learnning guide and code for totally beginer including (Python,C/C++,Ubuntu)
 
 
-## 2. Ros basicly explain docs and learning code
+2. Ros basicly explain docs and learning code
 
 
-## 3. Intergrated most of the latest ROS's Books.
+3. Intergrated most of the latest ROS's Books.
 
 ## Ref.Books
 
